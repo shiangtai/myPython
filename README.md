@@ -14,7 +14,7 @@ All implementations are written in pure Python with no external dependencies, ma
 
 ```
 myPython/
-├── LICENSE                 # MIT License
+├── LICENSE                # GPL-3.0 license
 ├── README.md              # This file
 ├── linearreg_stlin.py     # Linear regression module
 └── matrix_stlin.py        # Matrix operations module
